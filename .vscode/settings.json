@@ -1,0 +1,19 @@
+{
+  "workbench.colorCustomizations": {
+    "[Community Material Theme Darker High Contrast]": {
+      "editor.background": "#0F111A",
+      "sideBar.background": "#0F111A",
+      "terminal.background": "#0F111A"
+    },
+    "[Remedy - Tilted]": {
+      "editor.background": "#272626",
+      "sideBar.background": "#272626",
+      "terminal.background": "#272626",
+      "terminal.ansiBlack": "#010c16",
+      "terminal.ansiBrightBlack": "#011627"
+    },
+    "activityBar.background": "#103143",
+    "titleBar.activeBackground": "#17445E",
+    "titleBar.activeForeground": "#F9FCFE"
+  }
+}
